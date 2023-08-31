@@ -16,7 +16,8 @@ function Nav() {
                         key={aspects.name}
                         >
                         </li>
-                        ) )}
+                        ) )
+                        }
                     </li>
                 </ul>
             </nav>
